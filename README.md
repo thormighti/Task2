@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+Below is the link to the contract on the testnest.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+https://rinkeby.etherscan.io/verifyContract-solc?a=0x59231C152D320EAA098aB76aDEe5D1FC35Fe3505&c=v0.8.4%2bcommit.c7e474f2&lictype=3
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+The contract address:
+0x59231C152D320EAA098aB76aDEe5D1FC35Fe3505
