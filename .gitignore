@@ -8,3 +8,4 @@ process.env
 #Hardhat files
 cache
 artifacts
+hardhat.config.js
