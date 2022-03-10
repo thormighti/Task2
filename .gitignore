@@ -4,8 +4,8 @@ coverage
 coverage.json
 typechain
 process.env
+hardhat.config.js
 
 #Hardhat files
 cache
 artifacts
-hardhat.config.js
